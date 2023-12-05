@@ -31,7 +31,10 @@ I'm a Palaeobiologist examining the macroecological and macroevolutionary histor
 - ⚡ Fun fact: I have a ridiculously long duolingo streak 🦉  
 
 <div align="center">
-  <img height="135" width="240" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  /><br>
+  <picture>
+    <img height="135" width="240" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+  </picture>
+  <br>
   <i>Increasingly relatable.</i>
 </div>
 <br>
