@@ -1,5 +1,3 @@
-# WORK IN PROGRESS
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LewisAJones/LewisAJones/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -8,49 +6,36 @@
   </picture>
 </div>
 
-###
+<h3 align="center">
+  Hi there, I'm Lewis A. Jones 👋
+</h3>
 
-<div align="center">
-  <a href="https://twitter.com/LewisAlanJones"><img src="https://img.shields.io/static/v1?message=Follow&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lewisajones.lewisajones"  />
-</div>
-
-###
-
-<h1 align="center">Hi there, I'm Lewis A. Jones 👋</h1>
-
-###
+<p align="center">
+    <a href="https://lewisajones.github.io/cv-markdown/">CV</a> | <a href="mailto:LewisA.Jones@outlook.com">email</a> | <a href="www.LewisAJones.com">website</a> | <a href="www.twitter.com/LewisAlanJones">twitter</a> | <a href="https://palaeoverse.palaeoverse.org">palaeoverse</a> | <a href="https://rphylopic.palaeoverse.org">rphylopic</a> | <a href="https://sepkoski.palaeoverse.org">sepkoski</a> 
+</p>
 
 <h3 align="left">About Me 👨🏻‍💻</h3>
 
+I'm a Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms by integrating interdisciplinary tools and sources of information, such as ecological modelling, Earth system modelling, and fossil occurrence datasets. A significant theme of my research has also been evaluating the influence of data incompleteness on perceptions of the geological past.
 
-<br clear="both">
+- 🔭 I’m currently working on investigating the drivers of marine biodiversity hotspots throughout the Cenozoic and reconstructing their evolutionary history.
+- 🌱 I’m currently learning about developing SQL databases and APIs.
+- 👯 I’m looking to collaborate on developing software toolkits and resources for the palaeobiological community.  
+- 🤔 I’m looking for help with securing long-term funding for software toolkits and databases.
+- 💬 Ask me about [Palaeoverse](https://github.com/palaeoverse), an initiative aiming to bring the palaeobiology community together to share resources, reach agreed standards, and improve research reproducibility.
+- 📫 How to reach me: [email](mailto:LewisA.Jones@outlook.com) is best!
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I have a ridiculously long duolingo streak 🦉  
 
-<img src="https://raw.githubusercontent.com/lewisajones/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-### Hi there 👋
-
-  <img height="135" width="240" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
-
-<!--
-**LewisAJones/LewisAJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="135" width="240" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  /><br>
+  <i>Increasingly relatable.</i>
+</div>
+<br>
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lewisajones.lewisajones"/>
+</div>
+<br>
+<p align="center">
+    <a href="https://lewisajones.github.io/cv-markdown/">CV</a> | <a href="mailto:LewisA.Jones@outlook.com">email</a> | <a href="www.LewisAJones.com">website</a> | <a href="www.twitter.com/LewisAlanJones">twitter</a> | <a href="https://palaeoverse.palaeoverse.org">palaeoverse</a> | <a href="https://rphylopic.palaeoverse.org">rphylopic</a> | <a href="https://sepkoski.palaeoverse.org">sepkoski</a> 
+</p>
