@@ -19,7 +19,7 @@
 
 <h3 align="left">About Me 👨🏻‍💻</h3>
 
-I'm a Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms 🪸 by integrating interdisciplinary tools 🛠️ and sources of information 🗂️, such as ecological modelling 📈, Earth system modelling 🌍, and fossil occurrence datasets 🦴. A significant theme of my research has also been evaluating the influence of data incompleteness on perceptions of the geological past 🧩.
+I'm a Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms 🪸 by integrating interdisciplinary tools 🛠️ and sources of information 🗂️, such as ecological modelling 📈, Earth system modelling 🌍, and fossil occurrence datasets 🦴. An additional significant theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past 🧩.
 
 - 🔭 I’m currently working on investigating the drivers of marine biodiversity hotspots throughout the Cenozoic and reconstructing their evolutionary history.
 - 🌱 I’m currently learning more about developing SQL databases and APIs.
