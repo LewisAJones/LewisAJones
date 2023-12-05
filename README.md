@@ -27,8 +27,8 @@ I'm a Palaeobiologist examining the macroecological and macroevolutionary histor
 - 🤔 I’m looking for help with securing long-term funding for software toolkits and open-access databases.
 - 💬 Ask me about [Palaeoverse](https://github.com/palaeoverse), an initiative aiming to bring the palaeobiology community together to share resources, reach agreed standards, and improve research reproducibility.
 - 📫 How to reach me: [email](mailto:LewisA.Jones@outlook.com) is usually best!
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I have a ridiculously long duolingo streak 🦉  
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I have a ridiculously long [duolingo](https://www.duolingo.com/profile/LewisAJones) streak. 🦉  
 
 <div align="center">
   <picture>
