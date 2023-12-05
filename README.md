@@ -1,3 +1,35 @@
+<div align="center">
+  <img height="135" width="240" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://twitter.com/LewisAlanJones"><img src="https://img.shields.io/static/v1?message=Follow&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo"  /></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lewisajones.lewisajones"  />
+</div>
+
+###
+
+<h1 align="center">Hi there, I'm Lewis A. Jones 👋</h1>
+
+###
+
+<h3 align="left">About Me 👨🏻‍💻</h3>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lewisajones/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ### Hi there 👋
 
 <!--
