@@ -10,7 +10,7 @@
   Hi there, I'm Lewis A. Jones 👋
 </h3>
 <p align="center">
-  Postdoctoral Research Fellow, Universidade de Vigo
+  NERC Independent Research Fellow, University College London
 </p>
 
 <p align="center">
