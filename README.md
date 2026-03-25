@@ -45,7 +45,3 @@ I'm a Palaeobiologist examining the macroecological and macroevolutionary histor
 <p align="center">
     <a href="https://lewisajones.com/cv-markdown/">CV</a> | <a href="mailto:LewisA.Jones@outlook.com">email</a> | <a href="https://lewisajones.com">website</a> | <a href="https://twitter.com/LewisAlanJones">twitter</a> | <a href="https://palaeoverse.palaeoverse.org">palaeoverse</a> | <a href="https://rmacrostrat.palaeoverse.org">rmacrostrat</a> | <a href="https://rphylopic.palaeoverse.org">rphylopic</a> | <a href="https://sepkoski.palaeoverse.org">sepkoski</a> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lewisajones&show_icons=true&theme=radical" width="50%">
-</p>
