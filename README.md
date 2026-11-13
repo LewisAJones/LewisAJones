@@ -10,7 +10,7 @@
   Hi there, I'm Lewis A. Jones 👋
 </h3>
 <p align="center">
-  NERC Independent Research Fellow, University College London
+  Principal Researcher, Natural History Museum
 </p>
 
 <p align="center">
